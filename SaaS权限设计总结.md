@@ -4,9 +4,10 @@
 # 原初的混沌
 SaaS和一些内部系统/2C业务的权限最大不同点是他是天然多租户的。  
 用户之上会有一层组织(Organization)的概念，组织只拥有所有权限的子集（取决于组织购买的服务），并且组织可以自行管理部分权限。  
-省略了部门，群组等等概念的简化图：
-![](https://1.bp.blogspot.com/-f3SRA3_gWg0/Xtsk14ugwjI/AAAAAAAAAdc/wrrLIxdp2kkMWykYVi_bE49z43gRaE6mgCK4BGAsYHg/d/QQ%25E6%2588%25AA%25E5%259B%25BE20200606130802.png)
-增加了组织概念：
+省略了部门，群组等等概念的简化图：  
+![](https://1.bp.blogspot.com/-f3SRA3_gWg0/Xtsk14ugwjI/AAAAAAAAAdc/wrrLIxdp2kkMWykYVi_bE49z43gRaE6mgCK4BGAsYHg/d/QQ%25E6%2588%25AA%25E5%259B%25BE20200606130802.png)  
+
+增加了组织概念：  
 ![](https://1.bp.blogspot.com/-hk5IZANLJrk/Xtslr3_Ql8I/AAAAAAAAAdw/C0rXDbB1UnQ8Bkf1FVbnvxQYuellpT0agCK4BGAsYHg/d/QQ%25E6%2588%25AA%25E5%259B%25BE20200606131155.png)
 
 刚接手的这块的时候发现因为历史原因设计得比较粗糙。
